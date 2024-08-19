@@ -2,7 +2,6 @@
 Pizza Sales Analysis with MySQL &amp; Tableau
 
 KPI's Requirement
-We need to analyze key indicators for pizza sales data to gain insights to our business performance.
 1. Total Revenue
 2. Average Order Value
 3. Total Pizzas Sold
